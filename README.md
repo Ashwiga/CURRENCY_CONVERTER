@@ -1,4 +1,4 @@
-Currency Converter App
+**Currency Converter App
 A simple and responsive Currency Converter web application built using React and Vite. This app allows users to convert between different currencies in real time using exchange rates fetched from a public API.
 
 Features 
@@ -19,4 +19,4 @@ Tech Stack
 
 🌐 Fetch API (e.g., ExchangeRate API or ExchangeRatesAPI.io)
 
-💅 CSS
+💅 CSS**
